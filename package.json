@@ -1,0 +1,38 @@
+{
+  "name": "asreaper",
+  "version": "0.0.1",
+  "description": "31",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.2",
+    "common-tags": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.2",
+    "fs": "^0.0.2",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "parse-ms": "^3.0.0",
+    "quick.db": "^7.1.3",
+    "quick.db-extended": "^7.1.11",
+    "quick.db-prototypes": "^1.0.1",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^4.0.21"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
